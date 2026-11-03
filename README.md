@@ -8,7 +8,7 @@ The primary objective is to characterize cellular heterogeneity, identify distin
 
 ## Dataset
 
-- **Source:** Publicly available scRNA-seq data from a published PDAC chemotherapy study.
+- **Source:** Publicly available scRNA-seq data from a published PDAC chemotherapy study (GSE205013).
 - **Samples analyzed:** 4 patient samples (2 untreated, 2 chemotherapy-treated).
 - **Framework:** R and Seurat.
 
@@ -34,11 +34,3 @@ The primary objective is to characterize cellular heterogeneity, identify distin
 - Differential gene expression analysis between treatment groups.
 - Copy number variation inference using `inferCNV` to investigate malignant cell populations.
 - Characterization of chemotherapy-associated changes in the tumor microenvironment.
-
-## Tools and Technologies
-
-**R | Seurat | scDblFinder | ggplot2 | Single-Cell RNA Sequencing**
-
-## Acknowledgment
-
-This project is an independent reproduction of a published scRNA-seq analysis for educational and computational research purposes. The original study and its authors are acknowledged for providing the publicly available data and methodology.
