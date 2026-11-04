@@ -28,6 +28,8 @@ The primary objective is to characterize cellular heterogeneity, identify distin
 - Identification of cluster-specific marker genes.
 - Feature plots, dot plots, and expression heatmaps.
 - Comparison of cellular composition between untreated and treated samples.
+- Code for cleaning the dataset and clustering is available in cleaning.ipynb and clustering.ipynb
+- Final annotation code is present in postchemo_annotaion.ipynb and prechemo_annotation.ipynb
 
 ## Future Directions
 
